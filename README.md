@@ -20,6 +20,8 @@ Project has implemented simple user interface by which devices can be configured
 
 ![](images/BER_System.png)
 
+<img scr="images/BER_System.png" width=600 height=300>
+
 ## How to use it?
 - rebuild all files and flash projects to the devices
 - open terminal (UART Config = 115200, 8b, 1 stopbit, no parity, no flow control)
