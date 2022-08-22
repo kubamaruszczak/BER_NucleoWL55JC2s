@@ -18,8 +18,7 @@ This project is a simple byte error rate system and its aim is to allow testing 
 ## User interface
 Project has implemented simple user interface by which devices can be configured. User is able to configure Spreading Factor, Bandwidth, Tx output power, Tx period, set tx mode and choose payload length.
 
-![](images/BER_System.png)
-<img src="/images/BER_System.png" width=600 height=300>
+<img src="/images/BER_System.png" width=900 height=600>
 
 ## How to use it?
 - rebuild all files and flash projects to the devices
