@@ -20,8 +20,15 @@ Project has implemented simple user interface by which devices can be configured
 
 <img src="/images/BER_System.png" width=600 height=300>
 
+## Connections
+Tx device | Rx device
+     PC13 - NRST
+USART1_TX - USART1_RX
+USART1_RX - USART1_TX
+
 ## How to use it?
+- make devices connections
 - rebuild all files and flash projects to the devices
-- open terminal (UART Config = 115200, 8b, 1 stopbit, no parity, no flow control)
+- open terminal for Tx device (UART Config = 115200, 8b, 1 stopbit, no parity, no flow control)
 - reset Tx device
 - configure device by user interface
