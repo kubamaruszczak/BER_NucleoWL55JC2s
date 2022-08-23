@@ -1,7 +1,7 @@
-# BER system for Nucleo-WL55JC2 boards
+# PER system for Nucleo-WL55JC2 boards
 
 ## General info
-This project is a simple byte error rate system and its aim is to allow testing receiver radio sensitivity. Project runs on two Nucleo-WL55JC2 boards - Tx and Rx device. Tx device randomly generates payload which is sent to Rx device via radio with LoRa modulation. Rx device after receiving the payload sends it back to Tx device by using UART interface. Tx device calculates BER and prints results to the terminal. 
+This project is a simple payload error rate system and its aim is to allow testing receiver radio sensitivity. Project runs on two Nucleo-WL55JC2 boards - Tx and Rx device. Tx device randomly generates payload which is sent to Rx device via radio with LoRa modulation. Rx device after receiving the payload sends it back to Tx device by using UART interface. Tx device calculates PER and prints results to the terminal. 
 
 ## Setup 
 
