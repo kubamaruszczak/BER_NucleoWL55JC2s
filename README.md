@@ -21,9 +21,9 @@ Project has implemented simple user interface by which devices can be configured
 <img src="/images/BER_System.png" width=600 height=300>
 
 ## Connections
-Tx device | Rx device
-     PC13 - NRST
-USART1_TX - USART1_RX
+Tx device | Rx device<br />
+     PC13 - NRST<br />
+USART1_TX - USART1_RX<br />
 USART1_RX - USART1_TX
 
 ## How to use it?
