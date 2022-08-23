@@ -22,7 +22,7 @@ Project has implemented simple user interface by which devices can be configured
 
 ## Connections
 | Tx device | Rx device |
-| --------- | --------- |
+| :-------- | :-------- |
 |     PC13  | NRST      |
 | USART1_TX | USART1_RX |
 | USART1_RX | USART1_TX |
